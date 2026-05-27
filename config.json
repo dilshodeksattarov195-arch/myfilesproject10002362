@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasefave",
+        "uuid": 17771688,
+        "checksum": "m6u9vo"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
